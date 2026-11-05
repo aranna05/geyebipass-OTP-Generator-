@@ -1,6 +1,6 @@
 <div align="center">
 
-#Gayebi Pass
+# Gayebi Pass
 
 ### A little link for secrets that shouldn't stay forever. 🔐
 
